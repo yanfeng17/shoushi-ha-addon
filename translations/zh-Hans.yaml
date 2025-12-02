@@ -4,7 +4,7 @@ configuration:
   # ============================================================================
   rtsp_url:
     name: RTSP 地址
-    description: 摄像头的 RTSP 流地址（格式：rtsp://用户名:密码@IP地址:554/stream1）
+    description: "摄像头的 RTSP 流地址（格式：rtsp://用户名:密码@IP地址:554/stream1）"
   rtsp_reconnect_delay:
     name: RTSP 重连延迟
     description: RTSP 连接失败后重试的延迟时间（秒），推荐 5 秒
