@@ -90,4 +90,4 @@ schema:
   # 日志
   log_level: list(DEBUG|INFO|WARNING|ERROR)?
 
-  image: "ghcr.io/yanfeng17/shoushi-ha-addon:{arch}-2.1.3"
+image: "ghcr.io/yanfeng17/shoushi-ha-addon:{arch}-2.1.3"
