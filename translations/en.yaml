@@ -61,7 +61,7 @@ configuration:
   # ============================================================================
   # MediaPipe Hand Detection Configuration (v2.1.2 - IMAGE mode)
   # ============================================================================
-  min_detection_confidence:
+  min_hand_detection_confidence:
     name: Hand Detection Confidence
     description: |
       Minimum confidence level to detect hands (0.3-1.0)
